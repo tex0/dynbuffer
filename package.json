@@ -1,0 +1,14 @@
+{
+  "name": "dynbuffer",
+  "version": "0.0.1",
+  "description": "Dynamically expandable buffer",
+  "main": "entry.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"expandable buffer"
+	],
+  "author": "tex0",
+  "license": "ISC"
+}
